@@ -1,0 +1,5 @@
+John: Let's finalize the landing page design by next Tuesday.
+Sara: I will talk to the design team and get the draft ready by Friday.
+Mike: Don't forget we need to email all beta testers next week.
+Sara: I’ll take care of that too.
+John: Great. Also, the database migration should be completed by Thursday. Mike, please own this.
